@@ -1,4 +1,4 @@
-package com.nrsc.ch1.safeend;
+package com.nrsc.ch1.base.safeend;
 
 /**
  * 类说明：实现接口Runnable的线程如何中断

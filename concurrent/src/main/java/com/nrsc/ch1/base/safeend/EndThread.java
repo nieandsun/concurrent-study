@@ -1,4 +1,4 @@
-package com.nrsc.ch1.safeend;
+package com.nrsc.ch1.base.safeend;
 
 /***
  * 如何安全中断线程 --- 继承Thread类的情况

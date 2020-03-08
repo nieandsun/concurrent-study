@@ -1,4 +1,4 @@
-package com.nrsc.ch1.safeend;
+package com.nrsc.ch1.base.safeend;
 
 /**
  *类说明：阻塞方法中抛出InterruptedException异常后，如果需要继续中断，需要手动再中断一次
