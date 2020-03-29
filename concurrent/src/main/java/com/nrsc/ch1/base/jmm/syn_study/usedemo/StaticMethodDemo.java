@@ -1,4 +1,4 @@
-package com.nrsc.ch1.base.jmm.syn_study;
+package com.nrsc.ch1.base.jmm.syn_study.usedemo;
 
 public class StaticMethodDemo implements Runnable {
     //共享资源
